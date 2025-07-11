@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#00796B"            # teal‐blue for buttons and active elements
+backgroundColor = "#FFFFFF"         # very light mint green page background
+secondaryBackgroundColor = "#B2DFDB" # pale sea-foam for headers/sidebars
+textColor = "#004D40"               # deep teal for text
+font = "sans serif"
