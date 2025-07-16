@@ -3,7 +3,7 @@
 ## Installation & Setup
 1. **Clone the repo**  
  ```bash
- git clone https://github.com/<your-org>/model-eval-and-data-validator.git
+ git clone https://github.com/fai05/model-eval-and-data-validator.git
  
  cd model-eval-and-data-validator 
 ```
