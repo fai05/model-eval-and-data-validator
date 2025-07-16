@@ -1,5 +1,12 @@
 # NeuralHydrology Model Evaluation and Input Data Validation
 
+## Requirements
+
+- Python 3.8+
+- See `requirements.txt`
+
+---
+
 ## Installation & Setup
 1. **Clone the repo**  
  ```bash
@@ -29,6 +36,7 @@
   streamlit run discharge_tool.py
 ```
 ---
+
 ## Features
 
 ### 1. Discharge Evaluation Tool
@@ -50,12 +58,5 @@
 - **Quality scores** (with/without spikes)
 - **Visualizations**: monthly bar charts, heatmaps, time‑series with issue markers
 - **Download** flagged records as CSV
-
----
-
-## Requirements
-
-- Python 3.8+
-- See `requirements.txt`
 
 ---
