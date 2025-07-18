@@ -27,11 +27,11 @@
   ```bash
   source venv/bin/activate
 ```
-3. Install dependencies
+3. **Install dependencies**
 ```bash
   pip install -r requirements.txt
 ```
-4. Running the App
+4. **Run the App**
 ```bash
   streamlit run discharge_tool.py
 ```
